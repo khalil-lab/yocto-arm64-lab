@@ -1,0 +1,10 @@
+bitbake/
+bitbake-builds/
+build/
+downloads/
+sstate-cache/
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+__pycache__/
+*.pyc
